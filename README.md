@@ -2,10 +2,13 @@
 
 Estudante do 6º período de **Tecnologia em Análise e Desenvolvimento de Sistemas na UFPR**, buscando **estágio em Análise de Dados**. Meu objetivo é seguir carreira em **Engenharia de Dados**.
 
-Gosto de transformar dados soltos em informação útil para decisão: modelagem, SQL, ETL e painéis. Também tenho experiência com desenvolvimento em equipe usando Scrum, GitHub Actions e Docker.
+Gosto de transformar dados soltos em informação útil para decisão: modelagem, SQL, ETL, Python e painéis. Também tenho experiência com desenvolvimento em equipe usando Scrum, GitHub Actions e Docker.
+
+Uso IA de forma avançada em todo o ciclo de desenvolvimento (Claude e Claude Code, com plugins): planejamento, geração de código, revisão, testes, refatoração e documentação. Não copio e colo o que a IA gera: reviso, testo e melhoro. Nos meus projetos, documento como a IA foi usada.
 
 - 🎓 TADS · UFPR · conclusão prevista em jul/2027
-- 📊 Estudando agora: Python para dados (pandas) e Power BI
+- 📊 Python para análise e previsão de dados, Power BI
+- 🤖 Desenvolvimento assistido por IA com revisão e testes do código gerado
 - 🧪 TCC: previsão de demanda e dimensionamento de atendimento em unidades de coleta (séries temporais + CRISP-DM)
 - 📍 Curitiba, PR
 
@@ -33,7 +36,15 @@ Gosto de transformar dados soltos em informação útil para decisão: modelagem
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**IA**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 **DevOps e ferramentas**
 
@@ -50,7 +61,7 @@ Gosto de transformar dados soltos em informação útil para decisão: modelagem
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**Data Warehouse de Varejo**](https://github.com/felyppe1201/datawarehouse-varejo) | Modelagem em esquema estrela e ETL do SQL Server para o MySQL, com consultas analíticas para perguntas de negócio | SQL Server · MySQL · Python · ETL |
+| [**Data Warehouse de Varejo**](https://github.com/felyppe1201/datawarehouse-varejo) | Modelagem dimensional em floco de neve e ETL do SQL Server para o MySQL, com consultas analíticas para perguntas de negócio | SQL Server · MySQL · Python · ETL |
 | [**RachaBee**](https://github.com/felyppe1201/RachaBee) | App de divisão de despesas em grupo. Banco com RLS e 13 funções SQL que calculam os saldos | Supabase · PostgreSQL · React Native · TypeScript |
 | [**masterBank**](LINK_DO_REPO) | Sistema bancário em microsserviços. Minha parte: um banco por serviço, CQRS e SAGAs com RabbitMQ | Java · Spring Boot · PostgreSQL · RabbitMQ · Docker |
 | [**DevMarket**](https://github.com/ds881-2026-alexkutzke/ds881-devmarket-2026-1-t) | E-commerce feito por 26 alunos simulando uma empresa: Scrum, GitHub Projects, PRs com review e CI/CD | React · TypeScript · GitHub Actions · Docker |
