@@ -63,7 +63,7 @@ Uso IA de forma avançada em todo o ciclo de desenvolvimento (Claude e Claude Co
 |---|---|---|
 | [**Data Warehouse de Varejo**](https://github.com/felyppe1201/datawarehouse-varejo) | Modelagem dimensional em floco de neve e ETL do SQL Server para o MySQL, com consultas analíticas para perguntas de negócio | SQL Server · MySQL · Python · ETL |
 | [**RachaBee**](https://github.com/felyppe1201/RachaBee) | App de divisão de despesas em grupo. Banco com RLS e 13 funções SQL que calculam os saldos | Supabase · PostgreSQL · React Native · TypeScript |
-| [**masterBank**](LINK_DO_REPO) | Sistema bancário em microsserviços. Minha parte: um banco por serviço, CQRS e SAGAs com RabbitMQ | Java · Spring Boot · PostgreSQL · RabbitMQ · Docker |
+| [**MasterBank**](https://github.com/pauloschiochetufpr/DAC_PROJETO) | Sistema bancário em microsserviços. Minha parte: um banco por serviço, CQRS e SAGAs com RabbitMQ | Java · Spring Boot · PostgreSQL · RabbitMQ · Docker |
 | [**DevMarket**](https://github.com/ds881-2026-alexkutzke/ds881-devmarket-2026-1-t) | E-commerce feito por 26 alunos simulando uma empresa: Scrum, GitHub Projects, PRs com review e CI/CD | React · TypeScript · GitHub Actions · Docker |
 | [**Currículo com CI/CD**](https://github.com/felyppe1201/ds881-curriculo-GRR20242028) | Site com pipeline de lint e deploy automático, ambiente em Docker e proteção de branch | HTML/CSS · GitHub Actions · Docker |
 
